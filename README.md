@@ -21,7 +21,7 @@ Simply edit manifest.json file in your Unity Packages directory
 ```
 {
   "dependencies": {
-    "com.nol1fe.delaunator": "https://github.com/nol1fe/delaunator-sharp.git?path=DelaunatorSharp.Unity",
+    "com.nol1fe.delaunator": "https://github.com/Joo918/delaunator-sharp.git?path=DelaunatorSharp.Unity",
 }
 ```
 
